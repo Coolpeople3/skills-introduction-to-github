@@ -1,4 +1,4 @@
 Welcome to my GitHub profile!
-#testing
+testing
 *bold*
 _italics_
